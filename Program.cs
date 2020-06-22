@@ -6,7 +6,9 @@ namespace Aula21Static
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Digite um valor para ser convertido:");
+            Conversor.Valor = float.Parse(Console.ReadLine());
+            Console.WriteLine( $"Seu valor de R${Conversor.Valor} de reais convertido em dólar é : U${Conversor.ConverterDolarParaReal()}" );
         }
     }
 }

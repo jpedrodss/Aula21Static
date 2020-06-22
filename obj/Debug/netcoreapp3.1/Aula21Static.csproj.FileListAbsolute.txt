@@ -1,0 +1,13 @@
+C:\Users\kermt\Documents\Projetos\Aula21Static\bin\Debug\netcoreapp3.1\Aula21Static.exe
+C:\Users\kermt\Documents\Projetos\Aula21Static\bin\Debug\netcoreapp3.1\Aula21Static.deps.json
+C:\Users\kermt\Documents\Projetos\Aula21Static\bin\Debug\netcoreapp3.1\Aula21Static.runtimeconfig.json
+C:\Users\kermt\Documents\Projetos\Aula21Static\bin\Debug\netcoreapp3.1\Aula21Static.runtimeconfig.dev.json
+C:\Users\kermt\Documents\Projetos\Aula21Static\bin\Debug\netcoreapp3.1\Aula21Static.dll
+C:\Users\kermt\Documents\Projetos\Aula21Static\bin\Debug\netcoreapp3.1\Aula21Static.pdb
+C:\Users\kermt\Documents\Projetos\Aula21Static\obj\Debug\netcoreapp3.1\Aula21Static.csprojAssemblyReference.cache
+C:\Users\kermt\Documents\Projetos\Aula21Static\obj\Debug\netcoreapp3.1\Aula21Static.csproj.CoreCompileInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula21Static\obj\Debug\netcoreapp3.1\Aula21Static.AssemblyInfoInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula21Static\obj\Debug\netcoreapp3.1\Aula21Static.AssemblyInfo.cs
+C:\Users\kermt\Documents\Projetos\Aula21Static\obj\Debug\netcoreapp3.1\Aula21Static.dll
+C:\Users\kermt\Documents\Projetos\Aula21Static\obj\Debug\netcoreapp3.1\Aula21Static.pdb
+C:\Users\kermt\Documents\Projetos\Aula21Static\obj\Debug\netcoreapp3.1\Aula21Static.genruntimeconfig.cache
